@@ -1,0 +1,1 @@
+# write a function that returns true if a number is even and odd if it isn't
